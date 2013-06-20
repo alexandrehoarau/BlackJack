@@ -53,6 +53,7 @@ Pour avoir différentes courbes et modifier la stratégie de jeu il suffit de mo
 
 ---------------------------------
 Alexandre HOARAU <a.hoarau@rt-iut.re> , Dimitri BOUDIA <d.boudia@rt-iut.re>
+---------------------------------
 
 Blackjack Project - Limit Losses Blackjack player
 Copyright (C) 2013  Dimitri BOUDIA & Alexandre HOARAU
