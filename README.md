@@ -52,9 +52,13 @@ Pour avoir différentes courbes et modifier la stratégie de jeu il suffit de mo
 4 = Partager
 
 ---------------------------------
-Alexandre HOARAU <a.hoarau@rt-iut.re> , Dimitri BOUDIA <d.boudia@rt-iut.re>
+Auteurs
 ---------------------------------
+Alexandre HOARAU <a.hoarau@rt-iut.re> , Dimitri BOUDIA <d.boudia@rt-iut.re>
 
+---------------------------------
+Licence
+---------------------------------
 Blackjack Project - Limit Losses Blackjack player
 Copyright (C) 2013  Dimitri BOUDIA & Alexandre HOARAU
 
