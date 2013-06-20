@@ -1,3 +1,19 @@
+%%%Blackjack Project - Limit Losses Blackjack player
+%%%Copyright (C) 2013  Dimitri BOUDIA & Alexandre HOARAU
+
+%%%This program is free software: you can redistribute it and/or modify
+%%%it under the terms of the GNU General Public License as published by
+%%%the Free Software Foundation, either version 3 of the License, or
+%%%(at your option) any later version.
+
+%%%This program is distributed in the hope that it will be useful,
+%%%but WITHOUT ANY WARRANTY; without even the implied warranty of
+%%%MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%%%GNU General Public License for more details.
+
+%%%You should have received a copy of the GNU General Public License
+%%%along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
 %%%%%%%%%%%%% BOUDIA Dimitri & HOARAU Alexandre %%%%%%%%%%%%%%
 %%%%%%%% Projet tuteuré : Comment gagner au Blackjack %%%%%%%%
 %%%%%%%%%%%%%%% Programme MATLAB: Blackjack.m %%%%%%%%%%%%%%%%
@@ -8,7 +24,12 @@
 % Variables de sorties : joueur (main du joueur) , croupier (main du croupier) 
 %                        et sum (représentation des gains
 %                        et des pertes du joueur)
-% On génère un jeu de 208
+% Correspondances entre les éléments de la matrice et les actions:
+% 0 = Abandonner
+% 1 = Tirer une carte
+% 2 = Rester
+% 3 = Doubler
+% 4 = Partager
 
 function[] = Blackjack()
 
